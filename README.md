@@ -47,3 +47,5 @@ ren e:\folder.{2559a1f2-21d7-11d4-bdaf-00c04f60b9f0} new_folder
 Where {2559a1f2-21d7-11d4-bdaf-00c04f60b9f0} remains unchanged, and "new_folder" is replaced with the file name you want.
 
 **Note**: In version 1.3.0, an universal password (**Albert-W**, i.e. my github id) can unlock all folders.
+
+I'm(Pradhyumna KKP) using this for a while, looks fine and no issues. I would say it's best to install in D drive to be safe.
